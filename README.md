@@ -1,3 +1,4 @@
+![.](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 ![.](https://raw.githubusercontent.com/LakshmanKishore/mywebsite/6b6195c5a0ef1f12d6d85cd2f120712aefb6758c/public/customhero.png)
 <h1 align="center">Hi 👋, I'm Abdullah Arslan</h1>
 <h3 align="center">Golang development application...</h3>
